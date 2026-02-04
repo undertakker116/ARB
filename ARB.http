@@ -1,0 +1,6 @@
+@ARB_HostAddress = http://localhost:5062
+
+GET {{ARB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
